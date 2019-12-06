@@ -1,0 +1,19 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0",
+    "path": "^0.12.7"
+  }
+}
